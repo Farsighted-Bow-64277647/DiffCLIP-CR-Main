@@ -27,6 +27,8 @@ To run training, run the following command in terminal. Change any training sett
 Testing can be run with the following command. To ensure the functionality of testing, please set the proper resume state in the config/ours_sigmoid.json file. 
 <br><br>
 <pre><code>python run.py -p test -c config/ours_sigmoid.json</code></pre>
+<br>
+To download the pretrained 1000-epoch batch size 2 results for DiffCLIP-CR, please visit <a href="https://drive.google.com/file/d/1x0l02NBBgB25vPVxPP71j1JeSXep89rl/view">here</a>.
 </p>
 
 <h2>Acknowledgements</h2>
